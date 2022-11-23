@@ -1,0 +1,1131 @@
+
+*{
+
+    margin: 0px;
+   
+
+}
+    
+.navbar-css{
+    width: 600px;
+margin:0 0 0 6%;
+
+}
+
+
+.seachbar{
+   margin: 
+}
+
+.about-us{
+    
+}
+
+
+.brand-billede{
+ padding: 10%;
+ margin: 0 0 10px 0;
+}
+
+
+
+
+.banner{
+    width: 100%;
+    height: 650px;
+    background: url(../img/dreams\ herobillede-dark.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+
+}
+
+.banner_desc{
+    padding: 130px 0px ;
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
+.line-one{
+  
+  
+}
+.line-two{
+    
+   
+    }
+
+
+
+.knap{
+    background-color: aquamarine;
+    border-radius: 4px;
+    padding: 15px 0 0 0;
+    margin: 0 0 0px 0;
+    height: 65px;
+    text-align: center;
+}
+
+.knap-two{
+    height: 65px;
+    width: 100%;
+
+}
+
+
+
+
+        
+.shoppingcards{
+    
+    height: 0px;
+    background-color: rgba(51, 76, 60, 0.178);
+    overflow: visible;
+    padding: 0 0 0 0px;
+}
+
+   
+
+.shopping-one{
+   
+    padding: 10px 0px 10px 0px;
+    margin: 0;
+}
+
+
+.section-two{
+    padding: 0px;
+    display: flex;
+    
+}
+
+.dreams-come-true{
+    margin: 0 0 0 9%;
+    font-size: 100px;
+    color: #ffffff;
+}
+
+.christmas-joy{
+    font-size: 30px;
+    margin: 0 0 0 9%;
+    color: #ffffff;
+}
+
+
+
+    
+.banner-two{
+    width: 50%;
+    height: 1904px;
+    background-color:#dcc4b0 ;
+    text-align: center;
+}
+
+.baggrund-two{
+height: 1422px;
+background-color: #dcc4b0;
+}
+.mellemrum-baggrund-two{
+ height: 1109px;
+}
+
+
+
+
+
+.knap-til-biillede{
+    padding: 30px 200px 30px 200px;
+    margin:  400px 0 0 400px;
+    background-color: aquamarine;
+}
+
+.overskift-glowy{
+   
+    text-align: start;
+    padding: 0 9% 0 9%;
+    padding-top: 9%;
+}
+.skin-prep{
+    text-align: start;
+    padding: 0 0 0 9%;
+    padding-bottom: 2%;
+}
+
+.knap-readmore{
+    margin-bottom: 5%;
+    margin-right: 56%;
+    background-color: #2e2e2e;
+    color: #cacaca;
+    padding: 2% 8%;
+}
+
+.mellemrum-billeder{
+    height: 336px;
+}
+
+
+
+.billede-blog-kasse{
+    width: 100%;
+    height: 795px;
+    background:url(../img/COLOURBOX33274964.jpg);
+    background-size:cover ;
+   
+}
+.billede-blog-kasse-one{
+    width: 100%;
+    height: 795px;
+    background:url(../img/COLOURBOX56430044.jpg);
+    background-size: cover ;
+    
+   
+}
+
+.om-os{
+text-align: start;
+    padding: 0 9% 0 9%;
+    padding-top: 9%;
+}
+
+.om-os-undertekst{
+    text-align: start;
+    padding: 0 9% 0 9%;
+    padding-top: 5%;
+}
+.om-os-undertekst-two{
+    text-align: start;
+    padding: 0 9% 0 9%;
+    padding-top: 1%;
+}
+
+.om-os-undertekst-three{
+    text-align: start;
+    padding: 0 0 0 9%;
+    padding-top: 0%;
+    margin-bottom: 0;
+}
+
+.knap-readmore-two{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 56%;
+    background-color: #2e2e2e;
+    color: #cacaca;
+    padding: 2% 8%;
+}
+
+/*
+.billede-blog{
+    background:url(../img/COLOURBOX33274964.jpg);
+    background-size: cover ;
+
+}
+*/
+
+.baggrundcontainer-et{
+    width: 554px;
+    background-color: black;
+}
+
+.shoppingcontainer{
+    padding: 0;
+}
+
+.knap-see-all-products{
+    font-size: 30px;
+    margin-top: ;
+    margin: 0 0 0 1pc;
+    margin-bottom: 5%;
+    background-color:rgba(12, 12, 12, 0.747);
+    color: #ffffff;
+    padding: 2pc 4pc;
+}
+
+.knap-see-all-products-two{
+    font-size: 30px;
+    margin: 2pc 0 0 4pc;
+    margin-bottom: 5%;
+    background-color:#D9B18Fce;
+    color: #ffffff;
+    padding: 2pc 8pc;
+}
+
+
+
+.line-one{
+    margin: 420px 0 0 0;
+
+}
+
+.line-two{
+    margin: 85px 0 0 0;
+}
+
+
+.shoppingkort-alle{
+    height: 2600px;
+    margin: 0 0 0 0px;
+}
+
+.kortbox{
+   
+    margin: 15px 10px 30px 15px ;
+}
+
+/* ændre størrelse her*/
+.containerkort{
+    height: 460px;
+    background-color: #ffffff;
+    margin: 0
+    
+    
+}
+
+.card-img-top{
+    height: 300px;
+    width: auto;
+}
+.card-img-top:hover{
+ transition: 1s;
+ height: 300px;
+padding: 6px;
+}
+
+.card-body-knap{
+height: 500px;
+padding: 15px 15px 10px 15px;
+
+}
+
+
+.card-text{
+    margin: 10px 0px 10px 0px;
+
+}
+
+
+.leagikurv{
+    
+    color: #ffffff;
+    background-color: #D9B18F;
+    padding: 12px;
+   margin: 0vh 10vh;
+   
+   
+}
+
+.leagikurv:hover{
+    
+    color: #fdfdfd;
+    background-color:  #b18d6e;
+    
+   
+   
+
+   
+   
+}
+
+
+@media (max-width: 1430px){
+    .dreams-come-true{
+        margin: 0 0 0 9%;
+        font-size: 80px;
+      
+        }
+    
+        .christmas-joy{
+            font-size: 25px;
+            margin: 0 0 0 9%;
+            color: #ffffff;
+        }
+
+    .line-one{
+        display: none;
+       
+    }
+    .line-two{
+        margin: 300px 0 0 0;
+    }
+
+    .knap-see-all-products{
+     margin-left: 5pc;
+    
+     padding: 2pc 7pc;
+        
+    }
+
+    .containerkort{
+        height: 550px;
+        margin: 0px 70px 0 70px;
+        background-color: #ffffff;
+       
+    }
+
+    .card-img-top{
+        height: 400px;
+        width: fit-content;
+        
+    }
+    .card-img-top:hover{
+     transition: 1s;
+     height: 400px;
+        padding: 6px;
+    }
+    .olie-kort{
+        display: none;
+      }
+
+    .billede-blog-kasse-one{
+        height: 40%;
+    }
+
+    .billede-blog-kasse{
+     height: 638.5px;
+        width: 100%;
+
+    }
+    .billede-blog-kasse-one{
+        height: 29%;
+    }
+
+    .billede-blog-kasse{
+     height: 552.16px;
+        width: 100%;
+
+    }
+    .mellemrum-baggrund-two{
+        height: 1060px;
+    }
+   
+    
+}
+
+
+
+@media (max-width: 1180px){
+    /*navc media max width*/
+    .boks-str{
+        height: 70px;
+    }
+    .brand-billede{
+        margin-left: 70px;
+        margin-top: 17px;
+        padding: 0;
+    }
+
+    .seachbar{
+        margin-left: 33%;
+
+    }
+   
+   
+    .burgerknap{
+        padding: 13px;
+    }
+    
+ /*herobillede 1 media max width*/
+  
+ .banner{
+    background-position:top;
+    height: auto;  
+    }
+
+ .dreams-come-true{
+    margin: 0 0 0 9%;
+    font-size: 80px;
+  
+    }
+
+    .christmas-joy{
+        font-size: 25px;
+        margin: 0 0 0 9%;
+        color: #ffffff;
+    }
+
+    .knap-see-all-products{
+        margin-left: 2pc;
+       
+        padding: 2pc 7pc;    
+    }
+
+    .baggrund-two{
+        height: 1904px;
+    }
+
+    .line-two{
+        padding: 20px 0 0 0;
+    }
+
+    .line-one{
+    
+     display:none;
+    }
+    .olie-kort{
+        display: none;
+    }
+
+    .containerkort{
+        height: 500px;
+        margin: 10px;
+        background-color: #ffffff;
+        
+    }
+
+    .card-img-top{
+        height: 300px;
+        width: fit-content;
+        
+    }
+    .card-img-top:hover{
+    transition: 1s;
+    height: 300px;
+        padding: 6px;
+    }
+    .card-title{
+        margin: 30px 0 0 0px;
+    }
+    .card-text{
+        margin: 10px 0px 10px 0px;
+    
+    }
+
+    .leagikurv{
+    margin-left: 2pc;
+    margin-right: 2pc;
+    }
+    .billede-blog-kasse-one{
+        height: 32%;
+    }
+
+    .billede-blog-kasse{
+    height: 609px;
+        width: 100%;
+
+    }
+    .mellemrum-baggrund-two{
+        height: 1019px;
+    } 
+    .baggrund-two{
+        height: 1904px;
+    }
+    
+}
+
+
+
+@media (max-width: 992px){
+    .banner{
+        background-position:top;
+        height: 500px;
+       
+    }
+    .banner_desc{
+        height: 30vh;
+    
+    }
+    .dreams-come-true{
+        margin: 0 0 0 9%;
+        font-size: 68px;
+      
+    }
+    
+    .christmas-joy{
+        font-size: 20px;
+        margin: 0 0 0 9%;
+        color: #ffffff;
+    }
+    .knap-see-all-products{
+        margin-left: 2pc;
+        font-size: 20px;
+        padding: 2pc 7pc;    
+        display: none;
+    }
+    .knap-see-all-products-two{
+        margin-left: 2pc;
+        font-size: 20px;
+        padding: 2pc 7pc;    
+    }
+    .line-two{
+        margin-top: 320px;
+        margin-bottom: 20px;
+        
+        height: 1000px;
+    }
+    .mellemrum-baggrund-two{
+        height: 1019px;
+    }
+
+    .mellemrum{
+        height: 1000px;
+    }
+    
+    
+
+
+}
+@media (max-width: ){
+    .banner{
+       background-position:top;
+       height: 448px;
+      
+     }
+
+   .banner_desc{
+       height: 61vh;
+       width: 100%;
+       padding: 2% 0 8% 0;
+       
+       
+   }
+   .dreams-come-true{
+       margin-left: ;
+       font-size: 70;
+   }
+   
+   .christmas-joy{
+       
+       font-size: 20px;
+
+       
+       
+       color: #ffffff;
+   }
+   .knap-see-all-products-two{
+       
+       
+       margin: 2pc ;
+       font-size: 20px;
+       padding: 5px 10%;
+   }
+   
+   .line-two{
+       padding: 200px 0 0 0;
+       height: 1000px;
+     }
+   
+     .line-one{
+       display: none;
+     }
+     .olie-kort{
+       display: none;
+     }
+
+   .billede-blog-kasse-one{
+       height: 29%;
+   }
+
+   .billede-blog-kasse{
+    height: 552.16px;
+       width: 100%;
+
+   }
+
+   .mellemrum-baggrund-two{
+       height: 1019px;
+   }
+
+   .om-os{
+   text-align: start;
+       padding: 0 9% 0 9%;
+       padding-top: 9%;
+
+   }
+   
+   .om-os-undertekst{
+       text-align: start;
+       padding: 0 9% 0 9%;
+       padding-top: 5%;
+   }
+   .om-os-undertekst-two{
+       text-align: start;
+       padding: 0 9% 0 9%;
+       padding-top: 1%;
+   }
+   
+   .om-os-undertekst-three{
+       text-align: start;
+       padding: 0 0 0 9%;
+       padding-top: 0%;
+       margin-bottom: 0;
+   }
+   
+   .containerkort{
+       height: 388px;
+       margin: 20px;
+       background-color: #ffffff;
+       
+   }
+   .card-img-top{
+       height: 200px;
+       width: fit-content;
+       
+   }
+   .card-img-top:hover{
+    transition: 1s;
+    height: 200px;
+   padding: 6px;
+   }
+   .card-title{
+       margin: 30px 0 0 0px;
+   }
+   .card-text{
+       margin: 10px 0px 10px 0px;
+    
+   }
+
+   .leagikurv{
+      margin-left: 2pc;
+      margin-right: 2pc;
+   }
+
+   .baggrund-two{
+       height: 1650px;
+   }
+
+   .banner-two{
+       height: 1650px;
+   }
+   .mellemrum{
+       height: 1000px;
+   }
+
+   .shoppingkort-alle{
+       height: 2000px;
+   }
+
+}
+@media (max-width: 800px){
+    .banner{
+       background-position:top;
+       height: 448px;
+       offset-distance: flex;
+      
+   }
+
+   .banner_desc{
+       height: 61vh;
+       padding: 8% 0 8% 0;
+       
+       
+   }
+   .dreams-come-true{
+       margin: 0 5% 2% 5%;
+       font-size: 70px;
+       text-align: center;
+     
+   }
+   
+   .christmas-joy{
+       
+       font-size: 20px;
+       text-align: center;
+       margin: 2pc 30% 0 30%;
+       
+       color: #ffffff;
+   }
+   .knap-see-all-products-two{
+       text-align: center;
+       
+       margin: 2pc 15pc;
+       font-size: 20px;
+       padding: 5px 10%;
+   }
+   
+   .line-two{
+       padding: 200px 0 0 0;
+       height: 1000px;
+     }
+   
+     .line-one{
+       display: none;
+     }
+     .olie-kort{
+       display: none;
+     }
+
+   .billede-blog-kasse-one{
+       height: 29%;
+   }
+
+   .billede-blog-kasse{
+    height: 552.16px;
+       width: 100%;
+
+   }
+
+   .mellemrum-baggrund-two{
+       height: 1019px;
+   }
+
+   .om-os{
+   text-align: start;
+       padding: 0 9% 0 9%;
+       padding-top: 9%;
+
+   }
+   
+   .om-os-undertekst{
+       text-align: start;
+       padding: 0 9% 0 9%;
+       padding-top: 5%;
+   }
+   .om-os-undertekst-two{
+       text-align: start;
+       padding: 0 9% 0 9%;
+       padding-top: 1%;
+   }
+   
+   .om-os-undertekst-three{
+       text-align: start;
+       padding: 0 0 0 9%;
+       padding-top: 0%;
+       margin-bottom: 0;
+   }
+   
+   .containerkort{
+       height: 388px;
+       margin: 20px;
+       background-color: #ffffff;
+       
+   }
+   .card-img-top{
+       height: 200px;
+       width: fit-content;
+       
+   }
+   .card-img-top:hover{
+    transition: 1s;
+    height: 200px;
+   padding: 6px;
+   }
+   .card-title{
+       margin: 30px 0 0 0px;
+   }
+   .card-text{
+       margin: 10px 0px 10px 0px;
+    
+   }
+
+   .leagikurv{
+      margin-left: 2pc;
+      margin-right: 2pc;
+   }
+
+   .baggrund-two{
+       height: 1650px;
+   }
+
+   .banner-two{
+       height: 1650px;
+   }
+   .mellemrum{
+       height: 1000px;
+   }
+
+   .shoppingkort-alle{
+       height: 2000px;
+   }
+}
+
+@media (max-width: 770px){
+     .banner{
+        background-position:top;
+        height: 448px;
+        offset-distance: flex;
+       
+    }
+
+    .banner_desc{
+        height: 61vh;
+        padding: 8% 0 8% 0;
+        
+        
+    }
+    .dreams-come-true{
+        margin: 0 5% 2% 5%;
+        font-size: 70px;
+        text-align: center;
+      
+    }
+    
+    .christmas-joy{
+        
+        font-size: 20px;
+        text-align: center;
+        margin: 2pc 30% 0 30%;
+        
+        color: #ffffff;
+    }
+    .knap-see-all-products-two{
+        text-align: center;
+        
+        margin: 2pc 15pc;
+        font-size: 20px;
+        padding: 5px 10%;
+    }
+    
+    .line-two{
+        padding: 200px 0 0 0;
+        height: 1000px;
+      }
+    
+      .line-one{
+        display: none;
+      }
+      .olie-kort{
+        display: none;
+      }
+
+    .billede-blog-kasse-one{
+        height: 29%;
+    }
+
+    .billede-blog-kasse{
+     height: 552.16px;
+        width: 100%;
+
+    }
+
+    .mellemrum-baggrund-two{
+        height: 1019px;
+    }
+
+    .om-os{
+    text-align: start;
+        padding: 0 9% 0 9%;
+        padding-top: 9%;
+
+    }
+    
+    .om-os-undertekst{
+        text-align: start;
+        padding: 0 9% 0 9%;
+        padding-top: 5%;
+    }
+    .om-os-undertekst-two{
+        text-align: start;
+        padding: 0 9% 0 9%;
+        padding-top: 1%;
+    }
+    
+    .om-os-undertekst-three{
+        text-align: start;
+        padding: 0 0 0 9%;
+        padding-top: 0%;
+        margin-bottom: 0;
+    }
+    
+    .containerkort{
+        height: 388px;
+        margin: 20px;
+        background-color: #ffffff;
+        
+    }
+    .card-img-top{
+        height: 200px;
+        width: fit-content;
+        
+    }
+    .card-img-top:hover{
+     transition: 1s;
+     height: 200px;
+    padding: 6px;
+    }
+    .card-title{
+        margin: 30px 0 0 0px;
+    }
+    .card-text{
+        margin: 10px 0px 10px 0px;
+     
+    }
+
+    .leagikurv{
+       margin-left: 2pc;
+       margin-right: 2pc;
+    }
+
+    .baggrund-two{
+        height: 1650px;
+    }
+
+    .banner-two{
+        height: 1650px;
+    }
+    .mellemrum{
+        height: 1000px;
+    }
+
+    .shoppingkort-alle{
+        height: 2000px;
+    }
+}
+
+
+
+
+@media (max-width: 390px){
+    .banner{
+        background-position:top;
+        height: 300px;
+     
+        background-position: center center;
+       
+    }
+
+    .banner_desc{
+        height: 50vh;
+        padding: 5% 0 4% 0;
+        width: 100%;
+        
+        
+    }
+    .dreams-come-true{
+        margin: 0 0 2% 10%;
+        font-size: 35px;
+        text-align: start;
+        
+        width: fit-content ;
+    }
+    
+    .christmas-joy{
+        
+        font-size: 20px;
+        text-align: start;
+        margin: 2% 2% 0 10%;
+        
+        color: #ffffff;
+    }
+    .knap-see-all-products-two{
+        text-align: center;
+        
+        margin: 2pc 2pc;
+        font-size: 20px;
+        padding: 5px 10%;
+    }
+    
+    .line-two{
+        padding: 200px 0 0 0;
+        height: 1000px;
+        display: none;
+    }
+    
+    .line-one{
+        display: none;
+    }
+    .olie-kort{
+        display: none;
+    }
+
+
+
+    .section-two{
+        
+        width: 100%; 
+        
+    }
+
+
+    .billede-blog-kasse-one{
+        height: 29%;
+      
+    }
+
+    .billede-blog-kasse{
+     height: 552.16px;
+        
+
+    }
+
+    .mellemrum-baggrund-two{
+        height: 1019px;
+    }
+
+    .om-os{
+    text-align: start;
+        padding: 0 9% 0 9%;
+        padding-top: 9%;
+
+    }
+    
+    .om-os-undertekst{
+        text-align: start;
+        padding: 0 9% 0 9%;
+        padding-top: 5%;
+    }
+    .om-os-undertekst-two{
+        text-align: start;
+        padding: 0 9% 0 9%;
+        padding-top: 1%;
+    }
+    
+    .om-os-undertekst-three{
+        text-align: start;
+        padding: 0 0 0 9%;
+        padding-top: 0%;
+        margin-bottom: 0;
+    }
+    
+    .containerkort{
+        height: 388px;
+        margin: 20px;
+        background-color: #ffffff;
+        
+    }
+    .card-img-top{
+        height: 200px;
+        width: fit-content;
+        
+    }
+    .card-img-top:hover{
+     transition: 1s;
+     height: 200px;
+    padding: 6px;
+    }
+    .card-title{
+        margin: 30px 0 0 0px;
+    }
+    .card-text{
+        margin: 10px 0px 10px 0px;
+     
+    }
+
+    .leagikurv{
+       margin-left: 2pc;
+       margin-right: 2pc;
+    }
+
+    .baggrund-two{
+        height: 1650px;
+        display: none;
+
+    }
+
+    .banner-two{
+        height: 1650px;
+        
+       
+    }
+    .mellemrum{
+        height: 1000px;
+        
+    }
+
+    .shoppingkort-alle{
+        height: 2000px;
+    }
+    
+    .knap-readmore{
+        margin-left: 10%;
+    }
+
+    .knap-readmore-two{
+        margin-left: 10%;
+    }
+}
+
